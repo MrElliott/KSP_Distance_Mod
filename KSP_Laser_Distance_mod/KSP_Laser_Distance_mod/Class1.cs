@@ -9,6 +9,6 @@ namespace KSP_Laser_Distance_mod
     public class Class1
     {
         //
-        //c
+        //cs
     }
 }
