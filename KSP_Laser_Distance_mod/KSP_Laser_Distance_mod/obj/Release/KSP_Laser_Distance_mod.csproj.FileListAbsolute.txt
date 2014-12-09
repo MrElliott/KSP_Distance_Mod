@@ -1,0 +1,3 @@
+C:\Users\Elliott\Desktop\Mod Work\KSP_Distance_Mod\KSP_Laser_Distance_mod\Output\Plugins\KSP_Laser_Distance_mod.dll
+C:\Users\Elliott\Desktop\Mod Work\KSP_Distance_Mod\KSP_Laser_Distance_mod\KSP_Laser_Distance_mod\obj\Release\KSP_Laser_Distance_mod.csprojResolveAssemblyReference.cache
+C:\Users\Elliott\Desktop\Mod Work\KSP_Distance_Mod\KSP_Laser_Distance_mod\KSP_Laser_Distance_mod\obj\Release\KSP_Laser_Distance_mod.dll
